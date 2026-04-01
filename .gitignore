@@ -1,0 +1,9 @@
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Database State
+qdrant_data/
+
+# Generated Dummy Data (Optional: Remove this line if you want to push the JSON file)
+dummy_data.json
